@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  devtools:
+    restart:
+      enabled:  true
+football-stats-api:
+  nifs:
+    url: https://v3api.nifs.no/

@@ -1,0 +1,3449 @@
+{
+  "name": "Molde",
+  "country": {
+    "name": "Norge",
+    "shortName": "NOR",
+    "type": "nifs:countryCompact",
+    "uid": "cou_c_1",
+    "id": 1
+  },
+  "homePage": "http:\/\/www.moldefk.no\/",
+  "address": "Molde Fotball AS\r\nJulsundvegen 14\r\n6412 Molde",
+  "clubTeam": true,
+  "gender": "men",
+  "attendanceRecord": 14793,
+  "dateFounded": "1911-06-19",
+  "comment": null,
+  "city": {
+    "name": "Molde",
+    "country": {
+      "name": "Norge",
+      "shortName": "NOR",
+      "type": "nifs:countryCompact",
+      "uid": "cou_c_1",
+      "id": 1
+    },
+    "type": "nifs:location",
+    "uid": "lo_2120",
+    "id": 2120
+  },
+  "placeHolder": false,
+  "logo": {
+    "url": "https:\/\/api.nifs.no\/images\/teams\/logo\/6\/",
+    "imageTypeId": 3,
+    "type": "nifs:image",
+    "uid": "i_52242",
+    "id": 52242
+  },
+  "teamPhoto": {
+    "url": "https:\/\/api.nifs.no\/images\/teams\/squadImage\/6\/",
+    "imageTypeId": 2,
+    "type": "nifs:image",
+    "uid": "i_12845",
+    "id": 12845
+  },
+  "stadiums": [
+    {
+      "name": "Aker stadion",
+      "capacity": 11249,
+      "sittingCapacity": 10349,
+      "pitchLength": 105,
+      "pitchWidth": 68,
+      "openedDate": "1998-00-00",
+      "hasFloodlights": true,
+      "hasUnderSoilHeating": true,
+      "hasRunningTrack": false,
+      "hasRoof": false,
+      "hasRetractablePitch": false,
+      "isIndoorArena": false,
+      "address": "Julsundveien 14, 6412 Molde, Norway",
+      "comment": "Hadde naturgress frem til 2014.",
+      "surface": null,
+      "attendanceRecord": 13308,
+      "place": {
+        "name": "Molde",
+        "type": "nifs:location",
+        "uid": "lo_2120",
+        "id": 2120,
+        "externalIds": null
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "image": {
+        "url": "https:\/\/api.nifs.no\/images\/stadiums\/stadiumImage\/8028\/",
+        "imageTypeId": 11,
+        "type": "nifs:image",
+        "uid": "i_30669",
+        "id": 30669
+      },
+      "dateFrom": "1998-00-00",
+      "dateTo": null,
+      "type": "nifs:stadium",
+      "uid": "s_8028",
+      "id": 8028,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Molde Idrettspark",
+      "capacity": null,
+      "hasFloodlights": null,
+      "hasUnderSoilHeating": null,
+      "hasRunningTrack": true,
+      "hasRoof": false,
+      "hasRetractablePitch": false,
+      "isIndoorArena": false,
+      "surface": null,
+      "attendanceRecord": 14793,
+      "place": {
+        "name": "Molde",
+        "type": "nifs:location",
+        "uid": "lo_2120",
+        "id": 2120,
+        "externalIds": null
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "image": {
+        "url": "https:\/\/api.nifs.no\/images\/stadiums\/stadiumImage\/\/",
+        "imageTypeId": 11,
+        "type": "nifs:image",
+        "uid": "i_99999999",
+        "id": 99999999
+      },
+      "dateFrom": null,
+      "dateTo": "1998-00-00",
+      "type": "nifs:stadium",
+      "uid": "s_8712",
+      "id": 8712,
+      "externalIds": null,
+      "sportId": 1
+    }
+  ],
+  "names": [
+    {
+      "name": "Molde Fotballklubb",
+      "use": "Fullt navn",
+      "useId": 4,
+      "dateStart": null,
+      "dateEnd": null,
+      "type": "nifs:name",
+      "uid": "nt_421",
+      "id": 421
+    },
+    {
+      "name": "Molde FK",
+      "use": "Annet navn",
+      "useId": 10,
+      "dateStart": null,
+      "dateEnd": null,
+      "type": "nifs:name",
+      "uid": "nt_16703",
+      "id": 16703
+    },
+    {
+      "name": "m",
+      "use": "Code replacement team code",
+      "useId": 25,
+      "dateStart": null,
+      "dateEnd": null,
+      "type": "nifs:name",
+      "uid": "nt_23545",
+      "id": 23545
+    },
+    {
+      "name": "MOL",
+      "use": "Three letter abbreviation",
+      "useId": 31,
+      "dateStart": null,
+      "dateEnd": null,
+      "type": "nifs:name",
+      "uid": "nt_24992",
+      "id": 24992
+    }
+  ],
+  "kits": [
+    {
+      "colorCodes": [
+        "#1650B7",
+        "#1650B7"
+      ],
+      "kitTypeId": 1,
+      "numberColor": "#FFFFFF",
+      "patternId": 8,
+      "type": "nifs:kit",
+      "uid": "kit_8",
+      "id": 8,
+      "sportId": 1
+    },
+    {
+      "colorCodes": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      "kitTypeId": 2,
+      "patternId": 8,
+      "type": "nifs:kit",
+      "uid": "kit_78",
+      "id": 78,
+      "sportId": 1
+    },
+    {
+      "colorCodes": [
+        "#B1A383",
+        "#B1A383"
+      ],
+      "kitTypeId": 3,
+      "patternId": 8,
+      "type": "nifs:kit",
+      "uid": "kit_2920",
+      "id": 2920,
+      "sportId": 1
+    }
+  ],
+  "honours": [
+    {
+      "name": "Tippeligaen 2011",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "Eliteserien",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_5",
+        "id": 5,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 6683,
+      "year": 2011,
+      "title": "Seriemester",
+      "type": "nifs:honour",
+      "uid": "h_144",
+      "id": 144,
+      "sportId": 1
+    },
+    {
+      "name": "Tippeligaen 2012",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "Eliteserien",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_5",
+        "id": 5,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 7637,
+      "year": 2012,
+      "title": "Seriemester",
+      "type": "nifs:honour",
+      "uid": "h_1200",
+      "id": 1200,
+      "sportId": 1
+    },
+    {
+      "name": "Tippeligaen 2014",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "Eliteserien",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_5",
+        "id": 5,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 668633,
+      "year": 2014,
+      "title": "Seriemester",
+      "type": "nifs:honour",
+      "uid": "h_1198",
+      "id": 1198,
+      "sportId": 1
+    },
+    {
+      "name": "Eliteserien 2019",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "Eliteserien",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_5",
+        "id": 5,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 679874,
+      "year": 2019,
+      "title": "Seriemester",
+      "type": "nifs:honour",
+      "uid": "h_14624",
+      "id": 14624,
+      "sportId": 1
+    },
+    {
+      "name": "Eliteserien 2022",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "Eliteserien",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_5",
+        "id": 5,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 688480,
+      "year": 2022,
+      "title": "Seriemester",
+      "type": "nifs:honour",
+      "uid": "h_15813",
+      "id": 15813,
+      "sportId": 1
+    },
+    {
+      "name": "NM Cup 1994",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "NM cup",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_14",
+        "id": 14,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 3733,
+      "year": 1994,
+      "title": "Cupmester",
+      "type": "nifs:honour",
+      "uid": "h_140",
+      "id": 140,
+      "sportId": 1
+    },
+    {
+      "name": "NM Cup 2005",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "NM cup",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_14",
+        "id": 14,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 1554,
+      "year": 2005,
+      "title": "Cupmester",
+      "type": "nifs:honour",
+      "uid": "h_65",
+      "id": 65,
+      "sportId": 1
+    },
+    {
+      "name": "NM Cup 2013",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "NM cup",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_14",
+        "id": 14,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 667854,
+      "year": 2013,
+      "title": "Cupmester",
+      "type": "nifs:honour",
+      "uid": "h_1125",
+      "id": 1125,
+      "sportId": 1
+    },
+    {
+      "name": "NM Cup 2014",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "NM cup",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_14",
+        "id": 14,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 669024,
+      "year": 2014,
+      "title": "Cupmester",
+      "type": "nifs:honour",
+      "uid": "h_1230",
+      "id": 1230,
+      "sportId": 1
+    },
+    {
+      "name": "NM cup 2021",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "NM cup",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_14",
+        "id": 14,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 686670,
+      "year": 2021,
+      "title": "Cupmester",
+      "type": "nifs:honour",
+      "uid": "h_15623",
+      "id": 15623,
+      "sportId": 1
+    },
+    {
+      "name": "NM cup 2023",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "NM cup",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_14",
+        "id": 14,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 693242,
+      "year": 2023,
+      "title": "Cupmester",
+      "type": "nifs:honour",
+      "uid": "h_16184",
+      "id": 16184,
+      "sportId": 1
+    },
+    {
+      "name": 1973,
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "1. divisjon",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_6",
+        "id": 6,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": null,
+      "year": 1973,
+      "number": 1,
+      "type": "nifs:honour",
+      "uid": "h_2097",
+      "id": 2097,
+      "sportId": 1
+    },
+    {
+      "name": 1983,
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "1. divisjon",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_6",
+        "id": 6,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": null,
+      "year": 1983,
+      "number": 2,
+      "type": "nifs:honour",
+      "uid": "h_2077",
+      "id": 2077,
+      "sportId": 1
+    },
+    {
+      "name": "1. divisjon 2007",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "1. divisjon",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_6",
+        "id": 6,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 2229,
+      "year": 2007,
+      "number": 3,
+      "type": "nifs:honour",
+      "uid": "h_2039",
+      "id": 2039,
+      "sportId": 1
+    },
+    {
+      "name": "Norsk Superfinale 2012",
+      "honourTypeId": 1,
+      "tournament": {
+        "name": "Mesterfinalen",
+        "level": null,
+        "type": "nifs:tournamentCompact",
+        "uid": "t_c_338",
+        "id": 338,
+        "externalIds": null,
+        "sportId": 1
+      },
+      "stageId": 7847,
+      "year": 2012,
+      "title": "Mesterfinalen",
+      "type": "nifs:honour",
+      "uid": "h_4674",
+      "id": 4674,
+      "sportId": 1
+    }
+  ],
+  "players": [
+    {
+      "name": "Jacob Karlstr\u00f8m",
+      "birthDate": "1997-01-09",
+      "fromDate": "2022-01-08",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 1,
+      "position": {
+        "position": "Keeper",
+        "x": null,
+        "y": 1,
+        "type": "nifs:position",
+        "uid": "pos_1",
+        "id": 1
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Troms\u00f8",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_26",
+        "id": 26,
+        "externalIds": null
+      },
+      "height": 200,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/107773\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65656",
+        "id": 65656
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/107773\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65658",
+          "id": 65658
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/107773\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65657",
+          "id": 65657
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/107773\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65656",
+          "id": 65656
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/107773\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_49133",
+          "id": 49133
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_107773",
+      "id": 107773,
+      "externalIds": {
+        "fiks": [
+          2674206
+        ],
+        "tv2": [
+          287706
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Oliver Petersen",
+      "birthDate": "2001-09-26",
+      "fromDate": "2018-08-05",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 12,
+      "position": {
+        "position": "Keeper",
+        "x": null,
+        "y": 1,
+        "type": "nifs:position",
+        "uid": "pos_1",
+        "id": 1
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/244386\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65705",
+        "id": 65705
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/244386\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65707",
+          "id": 65707
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/244386\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65706",
+          "id": 65706
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/244386\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65705",
+          "id": 65705
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/244386\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_48793",
+          "id": 48793
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_244386",
+      "id": 244386,
+      "externalIds": {
+        "fiks": [
+          3816626
+        ],
+        "tv2": [
+          348436
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Peder Hoel Lervik",
+      "birthDate": "2005-04-24",
+      "fromDate": "2021-06-12",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 34,
+      "position": {
+        "position": "Keeper",
+        "x": null,
+        "y": 1,
+        "type": "nifs:position",
+        "uid": "pos_1",
+        "id": 1
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 185,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/317906\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65665",
+        "id": 65665
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/317906\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65667",
+          "id": 65667
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/317906\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65666",
+          "id": 65666
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/317906\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65665",
+          "id": 65665
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_317906",
+      "id": 317906,
+      "externalIds": {
+        "fiks": [
+          3106489
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Mads Myklebust",
+      "birthDate": "2007-07-31",
+      "fromDate": "2023-11-09",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 55,
+      "position": {
+        "position": "Keeper",
+        "x": null,
+        "y": 1,
+        "type": "nifs:position",
+        "uid": "pos_1",
+        "id": 1
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_543208",
+      "id": 543208,
+      "externalIds": {
+        "fiks": [
+          3611437
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Martin Bj\u00f8rnbak",
+      "birthDate": "1992-03-22",
+      "fromDate": "2019-01-17",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 2,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 193,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/30017\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65690",
+        "id": 65690
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/30017\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65692",
+          "id": 65692
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/30017\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65691",
+          "id": 65691
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/30017\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65690",
+          "id": 65690
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/30017\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_48744",
+          "id": 48744
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_30017",
+      "id": 30017,
+      "externalIds": {
+        "fiks": [
+          3686162
+        ],
+        "tv2": [
+          256796
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Casper \u00d8yvann",
+      "birthDate": "1999-12-07",
+      "fromDate": "2023-08-23",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 3,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Bod\u00f8",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_43",
+        "id": 43,
+        "externalIds": null
+      },
+      "height": 194,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/243555\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_70475",
+        "id": 70475
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/243555\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_70478",
+          "id": 70478
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/243555\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_70477",
+          "id": 70477
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/243555\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_70476",
+          "id": 70476
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/243555\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_70475",
+          "id": 70475
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_243555",
+      "id": 243555,
+      "externalIds": {
+        "fiks": [
+          2743190
+        ],
+        "tv2": [
+          346940
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Eirik Haugan",
+      "birthDate": "1997-08-27",
+      "fromDate": "2022-02-07",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 19,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Molde",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_2120",
+        "id": 2120,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/259353\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65644",
+        "id": 65644
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/259353\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65646",
+          "id": 65646
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/259353\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65645",
+          "id": 65645
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/259353\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65644",
+          "id": 65644
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_259353",
+      "id": 259353,
+      "externalIds": {
+        "fiks": [
+          2666129
+        ],
+        "tv2": [
+          280583
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Martin Linnes",
+      "birthDate": "1991-09-20",
+      "fromDate": "2021-08-17",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 21,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 177,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/29279\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65638",
+        "id": 65638
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/29279\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65640",
+          "id": 65640
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/29279\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65639",
+          "id": 65639
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/29279\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65638",
+          "id": 65638
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_29279",
+      "id": 29279,
+      "externalIds": {
+        "fiks": [
+          2254825
+        ],
+        "tv2": [
+          236682
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Anders Hagelskj\u00e6r",
+      "birthDate": "1997-02-16",
+      "fromDate": "2023-02-21",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 25,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Danmark",
+        "shortName": "DEN",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_13",
+        "id": 13,
+        "externalIds": null
+      },
+      "height": 192,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/187365\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65708",
+        "id": 65708
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/187365\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65710",
+          "id": 65710
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/187365\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65709",
+          "id": 65709
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/187365\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65708",
+          "id": 65708
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_187365",
+      "id": 187365,
+      "externalIds": {
+        "fiks": [
+          3978312
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Kristoffer Haugen",
+      "birthDate": "1994-02-21",
+      "fromDate": "2018-01-10",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 28,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 188,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/81438\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65668",
+        "id": 65668
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/81438\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65670",
+          "id": 65670
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/81438\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65669",
+          "id": 65669
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/81438\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65668",
+          "id": 65668
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_81438",
+      "id": 81438,
+      "externalIds": {
+        "fiks": [
+          3154181
+        ],
+        "tv2": [
+          256609
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Mathias Fj\u00f8rtoft L\u00f8vik",
+      "birthDate": "2003-12-06",
+      "fromDate": "2020-01-01",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 31,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/297610\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65680",
+        "id": 65680
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/297610\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65682",
+          "id": 65682
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/297610\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65681",
+          "id": 65681
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/297610\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65680",
+          "id": 65680
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_297610",
+      "id": 297610,
+      "externalIds": {
+        "fiks": [
+          3575592
+        ],
+        "tv2": [
+          376217
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Filip Kristoffersen",
+      "birthDate": "2004-03-09",
+      "fromDate": "2023-11-30",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 36,
+      "position": {
+        "position": "Defender",
+        "x": null,
+        "y": 3,
+        "type": "nifs:position",
+        "uid": "pos_2",
+        "id": 2
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_297693",
+      "id": 297693,
+      "externalIds": {
+        "fiks": [
+          3726832
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Eirik Hestad",
+      "birthDate": "1995-06-26",
+      "fromDate": "2023-08-01",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 5,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Molde",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_2120",
+        "id": 2120,
+        "externalIds": null
+      },
+      "height": 183,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/83737\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_69440",
+        "id": 69440
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/83737\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_70591",
+          "id": 70591
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/83737\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_69442",
+          "id": 69442
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/83737\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_69441",
+          "id": 69441
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/83737\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_69440",
+          "id": 69440
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_83737",
+      "id": 83737,
+      "externalIds": {
+        "fiks": [
+          3524595
+        ],
+        "tv2": [
+          261863
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Magnus Wolff Eikrem",
+      "birthDate": "1990-08-08",
+      "fromDate": "2018-07-25",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 7,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Molde",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_2120",
+        "id": 2120,
+        "externalIds": null
+      },
+      "height": 173,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/58883\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_64949",
+        "id": 64949
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/58883\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_64951",
+          "id": 64951
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/58883\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_64950",
+          "id": 64950
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/58883\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_64949",
+          "id": 64949
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/58883\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_48752",
+          "id": 48752
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_58883",
+      "id": 58883,
+      "externalIds": {
+        "fiks": [
+          3429961
+        ],
+        "tv2": [
+          230146
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Markus Kaasa",
+      "birthDate": "1997-07-15",
+      "fromDate": "2022-01-17",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 15,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 175,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/125595\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65674",
+        "id": 65674
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/125595\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65676",
+          "id": 65676
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/125595\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65675",
+          "id": 65675
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/125595\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65674",
+          "id": 65674
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/125595\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_48807",
+          "id": 48807
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_125595",
+      "id": 125595,
+      "externalIds": {
+        "fiks": [
+          3321250
+        ],
+        "tv2": [
+          290514
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Emil Breivik",
+      "birthDate": "2000-06-11",
+      "fromDate": "2018-09-17",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 16,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 180,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/188481\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65460",
+        "id": 65460
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/188481\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65462",
+          "id": 65462
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/188481\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65461",
+          "id": 65461
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/188481\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65460",
+          "id": 65460
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/188481\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_48781",
+          "id": 48781
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_188481",
+      "id": 188481,
+      "externalIds": {
+        "fiks": [
+          3551510
+        ],
+        "tv2": [
+          356195
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Kristian Eriksen",
+      "birthDate": "1995-07-18",
+      "fromDate": "2022-08-02",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 20,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 177,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/115949\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65602",
+        "id": 65602
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/115949\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65604",
+          "id": 65604
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/115949\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65603",
+          "id": 65603
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/115949\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65602",
+          "id": 65602
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_115949",
+      "id": 115949,
+      "externalIds": {
+        "fiks": [
+          3605157
+        ],
+        "tv2": [
+          286583
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Magnus Gr\u00f8dem",
+      "birthDate": "1998-08-14",
+      "fromDate": "2021-05-06",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 22,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Bryne",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_4124",
+        "id": 4124,
+        "externalIds": null
+      },
+      "height": 192,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/129097\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65650",
+        "id": 65650
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/129097\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65652",
+          "id": 65652
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/129097\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65651",
+          "id": 65651
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/129097\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65650",
+          "id": 65650
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_129097",
+      "id": 129097,
+      "externalIds": {
+        "fiks": [
+          3136254
+        ],
+        "tv2": [
+          298429
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Johan Bakke",
+      "birthDate": "2004-04-01",
+      "fromDate": "2022-01-24",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 24,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 184,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/328995\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65677",
+        "id": 65677
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/328995\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65679",
+          "id": 65679
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/328995\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65678",
+          "id": 65678
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/328995\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65677",
+          "id": 65677
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_328995",
+      "id": 328995,
+      "externalIds": {
+        "fiks": [
+          3464597
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Niklas \u00d8deg\u00e5rd",
+      "birthDate": "2004-03-29",
+      "fromDate": "2021-02-03",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 33,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 189,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/372420\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65647",
+        "id": 65647
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/372420\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65649",
+          "id": 65649
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/372420\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65648",
+          "id": 65648
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/372420\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65647",
+          "id": 65647
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_372420",
+      "id": 372420,
+      "externalIds": {
+        "fiks": [
+          3135769
+        ],
+        "tv2": [
+          393410
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Leon-Robin Juberg-Hovland",
+      "birthDate": "2004-05-09",
+      "fromDate": "2021-07-25",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 37,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_306687",
+      "id": 306687,
+      "externalIds": {
+        "fiks": [
+          3051769
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Andreas Myklebust",
+      "birthDate": "2005-07-16",
+      "fromDate": "2022-05-07",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 46,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/477924\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_70596",
+        "id": 70596
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/477924\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_70599",
+          "id": 70599
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/477924\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_70598",
+          "id": 70598
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/477924\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_70597",
+          "id": 70597
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/477924\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_70596",
+          "id": 70596
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_477924",
+      "id": 477924,
+      "externalIds": {
+        "fiks": [
+          4024106
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Gustav Nyheim",
+      "birthDate": "2006-02-13",
+      "fromDate": "2021-07-25",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 50,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/477926\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_69530",
+        "id": 69530
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/477926\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_69532",
+          "id": 69532
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/477926\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_69531",
+          "id": 69531
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/477926\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_69530",
+          "id": 69530
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_477926",
+      "id": 477926,
+      "externalIds": {
+        "fiks": [
+          3688892
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Sondre Granaas",
+      "birthDate": "2006-08-30",
+      "fromDate": "2024-01-31",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/542507\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_68913",
+        "id": 68913
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/542507\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_68915",
+          "id": 68915
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/542507\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_68914",
+          "id": 68914
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/542507\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_68913",
+          "id": 68913
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_542507",
+      "id": 542507,
+      "externalIds": {
+        "fiks": [
+          3757807
+        ],
+        "tv2": [
+          409876
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Harun Ibrahim",
+      "birthDate": "2003-02-26",
+      "fromDate": "2023-02-22",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": 8,
+      "shirtNumber": null,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Sverige",
+        "shortName": "SWE",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_5",
+        "id": 5,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "activeTeam": {
+        "name": "GAIS",
+        "country": {
+          "name": "Sverige",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_5",
+          "id": 5,
+          "externalIds": null
+        },
+        "gender": "men",
+        "dateStart": "2024-01-01",
+        "dateEnd": "2024-12-31",
+        "type": "nifs:teamCompactCompact",
+        "uid": "te_c_c_953",
+        "id": 953,
+        "externalIds": null,
+        "sportId": 1,
+        "personInTeamId": 1588787
+      },
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/533335\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65711",
+        "id": 65711
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/533335\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65713",
+          "id": 65713
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/533335\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65712",
+          "id": 65712
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/533335\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65711",
+          "id": 65711
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_533335",
+      "id": 533335,
+      "externalIds": {
+        "fiks": [
+          4027295
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Mats M\u00f8ller D\u00e6hli",
+      "birthDate": "1995-03-02",
+      "fromDate": "2024-01-31",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Oslo",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_18",
+        "id": 18,
+        "externalIds": null
+      },
+      "height": 177,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/72758\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_63942",
+        "id": 63942
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/72758\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_63942",
+          "id": 63942
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_72758",
+      "id": 72758,
+      "externalIds": {
+        "tv2": [
+          251656,
+          278745
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Alwande Roalds\u00f8y",
+      "birthDate": "2004-06-09",
+      "fromDate": "2024-01-31",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "L\u00f8renskog",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_4959",
+        "id": 4959,
+        "externalIds": null
+      },
+      "height": 191,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/309478\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_70100",
+        "id": 70100
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/309478\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_70100",
+          "id": 70100
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureAction\/309478\/",
+          "imageTypeId": 14,
+          "type": "nifs:image",
+          "uid": "i_70098",
+          "id": 70098
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_309478",
+      "id": 309478,
+      "externalIds": {
+        "fiks": [
+          3012246
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Halldor Stenevik",
+      "birthDate": "2000-02-02",
+      "fromDate": "2024-01-31",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "position": {
+        "position": "Midfielder",
+        "x": null,
+        "y": 5,
+        "type": "nifs:position",
+        "uid": "pos_6",
+        "id": 6
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Bergen",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_2",
+        "id": 2,
+        "externalIds": null
+      },
+      "height": 183,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/150615\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_66644",
+        "id": 66644
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/150615\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_66646",
+          "id": 66646
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/150615\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_66645",
+          "id": 66645
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/150615\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_66644",
+          "id": 66644
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/150615\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_49097",
+          "id": 49097
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_150615",
+      "id": 150615,
+      "externalIds": {
+        "fiks": [
+          3311935
+        ],
+        "tv2": [
+          304972
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Fredrik Gulbrandsen",
+      "birthDate": "1992-09-10",
+      "fromDate": "2023-08-31",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 8,
+      "position": {
+        "position": "Attacker",
+        "x": null,
+        "y": 7,
+        "type": "nifs:position",
+        "uid": "pos_13",
+        "id": 13
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Lillestr\u00f8m",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_3924",
+        "id": 3924,
+        "externalIds": null
+      },
+      "height": 178,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/27437\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_70592",
+        "id": 70592
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/27437\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_70595",
+          "id": 70595
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/27437\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_70594",
+          "id": 70594
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/27437\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_70593",
+          "id": 70593
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/27437\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_70592",
+          "id": 70592
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_27437",
+      "id": 27437,
+      "externalIds": {
+        "fiks": [
+          4041884
+        ],
+        "tv2": [
+          222091
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Veton Berisha",
+      "birthDate": "1994-04-13",
+      "fromDate": "2023-01-24",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 9,
+      "position": {
+        "position": "Attacker",
+        "x": null,
+        "y": 7,
+        "type": "nifs:position",
+        "uid": "pos_13",
+        "id": 13
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "Drammen",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_1843",
+        "id": 1843,
+        "externalIds": null
+      },
+      "height": 174,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/76568\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65714",
+        "id": 65714
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/76568\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65716",
+          "id": 65716
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/76568\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65715",
+          "id": 65715
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/76568\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65714",
+          "id": 65714
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/76568\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_49197",
+          "id": 49197
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_76568",
+      "id": 76568,
+      "externalIds": {
+        "fiks": [
+          3997984
+        ],
+        "tv2": [
+          254777
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Eric Kitolano",
+      "birthDate": "1997-09-02",
+      "fromDate": "2023-01-08",
+      "toDate": null,
+      "active": true,
+      "employmentId": 1,
+      "contractTypeId": null,
+      "shirtNumber": 10,
+      "position": {
+        "position": "Attacker",
+        "x": null,
+        "y": 7,
+        "type": "nifs:position",
+        "uid": "pos_13",
+        "id": 13
+      },
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 175,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/117875\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_65662",
+        "id": 65662
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personHalfFigureClubTeam\/117875\/",
+          "imageTypeId": 15,
+          "type": "nifs:image",
+          "uid": "i_65664",
+          "id": 65664
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithShoulders\/117875\/",
+          "imageTypeId": 17,
+          "type": "nifs:image",
+          "uid": "i_65663",
+          "id": 65663
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/117875\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_65662",
+          "id": 65662
+        },
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfileWithCutShouldersClubTeam\/117875\/",
+          "imageTypeId": 18,
+          "type": "nifs:image",
+          "uid": "i_49163",
+          "id": 49163
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_117875",
+      "id": 117875,
+      "externalIds": {
+        "fiks": [
+          3030900
+        ],
+        "tv2": [
+          288229
+        ]
+      },
+      "sportId": 1
+    }
+  ],
+  "staff": [
+    {
+      "name": "Trond Strande",
+      "birthDate": "1970-11-24",
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 9,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 186,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/313\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_13158",
+        "id": 13158
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/313\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_13158",
+          "id": 13158
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_313",
+      "id": 313,
+      "externalIds": {
+        "fiks": [
+          3484309
+        ],
+        "tv2": [
+          1529
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Stig Aamb\u00f8",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 23,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_27997",
+      "id": 27997,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Erik Berg",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 12,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_35228",
+      "id": 35228,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "St\u00e5l Bj\u00f8rkly",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 32,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_16717",
+      "id": 16717,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Markus F\u00fcrtauer",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 13,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": null,
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_27998",
+      "id": 27998,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Per Magne Misund",
+      "birthDate": "1971-05-09",
+      "fromDate": "2014-01-21",
+      "toDate": null,
+      "active": true,
+      "employmentId": 6,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 180,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/282988\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_13008",
+        "id": 13008
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/282988\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_13008",
+          "id": 13008
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_282988",
+      "id": 282988,
+      "externalIds": {
+        "fiks": [
+          3808107
+        ],
+        "tv2": [
+          1501
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Erling Moe",
+      "birthDate": "1970-07-22",
+      "fromDate": "2019-04-28",
+      "toDate": null,
+      "active": true,
+      "employmentId": 2,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_27995",
+      "id": 27995,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Tore Monsen",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 16,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_16719",
+      "id": 16719,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Thomas Mork",
+      "birthDate": "1978-06-22",
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 7,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 183,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/304\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_13149",
+        "id": 13149
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/304\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_13149",
+          "id": 13149
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_304",
+      "id": 304,
+      "externalIds": {
+        "fiks": [
+          3557293
+        ],
+        "tv2": [
+          1525
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Eirik M\u00e6land",
+      "birthDate": "1989-02-15",
+      "fromDate": "2023-01-01",
+      "toDate": null,
+      "active": true,
+      "employmentId": 4,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "birthPlace": {
+        "name": "B\u00f8mlo",
+        "country": {
+          "name": "Norge",
+          "type": "nifs:countryCompact",
+          "uid": "cou_c_1",
+          "id": 1,
+          "externalIds": null
+        },
+        "type": "nifs:location",
+        "uid": "lo_1849",
+        "id": 1849,
+        "externalIds": null
+      },
+      "height": 176,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/24438\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_19974",
+        "id": 19974
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/24438\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_19974",
+          "id": 19974
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_24438",
+      "id": 24438,
+      "externalIds": {
+        "fiks": [
+          2122368
+        ],
+        "tv2": [
+          195286
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Tarje Nordstrand Jacobsen",
+      "birthDate": "1974-05-05",
+      "fromDate": "2005-10-00",
+      "toDate": null,
+      "active": true,
+      "employmentId": 11,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_15970",
+      "id": 15970,
+      "externalIds": {
+        "fiks": [
+          3473563
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Petter Rudi",
+      "birthDate": "1973-09-17",
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 25,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": 191,
+      "isAReferee": false,
+      "gender": "men",
+      "profilePicture": {
+        "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/311\/",
+        "imageTypeId": 1,
+        "type": "nifs:image",
+        "uid": "i_13156",
+        "id": 13156
+      },
+      "profilePictures": [
+        {
+          "url": "https:\/\/api.nifs.no\/images\/persons\/personProfile\/311\/",
+          "imageTypeId": 1,
+          "type": "nifs:image",
+          "uid": "i_13156",
+          "id": 13156
+        }
+      ],
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_311",
+      "id": 311,
+      "externalIds": {
+        "tv2": [
+          11084
+        ]
+      },
+      "sportId": 1
+    },
+    {
+      "name": "Dag Sunde",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 13,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_35229",
+      "id": 35229,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Lars H\u00e5vard S\u00e6b\u00f8",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 18,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": false,
+      "gender": "men",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_65787",
+      "id": 65787,
+      "externalIds": null,
+      "sportId": 1
+    },
+    {
+      "name": "Marte S\u00f8r\u00f8",
+      "birthDate": null,
+      "fromDate": null,
+      "toDate": null,
+      "active": true,
+      "employmentId": 20,
+      "contractTypeId": null,
+      "shirtNumber": null,
+      "country": {
+        "name": "Norge",
+        "shortName": "NOR",
+        "type": "nifs:countryCompact",
+        "uid": "cou_c_1",
+        "id": 1,
+        "externalIds": null
+      },
+      "height": null,
+      "isAReferee": true,
+      "gender": "women",
+      "hiddenPersonInfo": false,
+      "type": "nifs:person",
+      "uid": "pit_22805",
+      "id": 22805,
+      "externalIds": {
+        "fiks": [
+          2956286
+        ]
+      },
+      "sportId": 1
+    }
+  ],
+  "clubs": [
+    {
+      "name": "Molde Fotballklubb",
+      "displayName": "Molde",
+      "primaryColor": "#0A51A1",
+      "secondaryColor": "#FFFFFF",
+      "textColor": "#FFFFFF",
+      "address": "Molde Fotball AS\r\nJulsundvegen 14\r\n6412 Molde",
+      "homePage": "http:\/\/www.moldefk.no\/",
+      "dateFounded": "1911-06-19",
+      "municipality": {
+        "name": "Molde",
+        "type": "nifs:municipality",
+        "uid": "mu_1506",
+        "id": 1506,
+        "externalIds": null
+      },
+      "type": "nifs:club",
+      "uid": "cl_3292",
+      "id": 3292,
+      "sportId": 1
+    }
+  ],
+  "teamStreak": null,
+  "isYouthTeam": false,
+  "type": "nifs:team",
+  "uid": "te_6",
+  "id": 6,
+  "externalIds": {
+    "fiks": [
+      3,
+      45993
+    ],
+    "enetpulse": [
+      9917
+    ],
+    "tv2": [
+      499,
+      309
+    ]
+  },
+  "sportId": 1
+}
