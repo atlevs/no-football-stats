@@ -1,11 +1,15 @@
-# no-football-stats
-REST API delivering football statistics from norway
+# Spring Boot Football Stats
 
-test
+This aim of this Spring Boot project is to simplify access to football statistics for the Norwegian top league.
 
-## Installation
+## Features
 
 
-```
-pip install -r requirements.txt
-```
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```git clone https://github.com/your-username/spring-boot-football-stats.git```
+
+//TODO: finish readme
